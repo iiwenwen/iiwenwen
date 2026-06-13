@@ -1,0 +1,40 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="night" x1="96" y1="28" x2="1106" y2="334" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#18231F"/>
+      <stop offset="0.52" stop-color="#20322C"/>
+      <stop offset="1" stop-color="#29413C"/>
+    </linearGradient>
+    <linearGradient id="moon" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#F2D29E"/>
+      <stop offset="1" stop-color="#D9A86C"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="28"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="24" fill="url(#night)"/>
+  <circle cx="1008" cy="86" r="70" fill="#E7A96B" opacity="0.16" filter="url(#glow)"/>
+  <circle cx="1008" cy="86" r="38" fill="url(#moon)" opacity="0.92"/>
+
+  <circle cx="1090" cy="52" r="2" fill="#DDE8E3" opacity="0.75"/>
+  <circle cx="1130" cy="126" r="1.5" fill="#DDE8E3" opacity="0.55"/>
+  <circle cx="934" cy="54" r="1.5" fill="#DDE8E3" opacity="0.65"/>
+  <circle cx="865" cy="101" r="1" fill="#DDE8E3" opacity="0.5"/>
+
+  <path d="M0 284C124 242 214 260 326 290C465 327 558 252 685 264C825 278 907 332 1200 249V360H0V284Z" fill="#46675C" opacity="0.58"/>
+  <path d="M0 310C148 278 242 303 362 326C511 355 650 292 770 302C910 314 1012 347 1200 303V360H0V310Z" fill="#101A17" opacity="0.72"/>
+
+  <g opacity="0.72">
+    <path d="M897 214C909 195 925 176 943 160" stroke="#9DB7AD" stroke-width="3" stroke-linecap="round"/>
+    <path d="M930 171C924 156 926 141 936 129" stroke="#9DB7AD" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M920 183C904 176 891 176 879 181" stroke="#9DB7AD" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M936 166C949 161 962 162 973 168" stroke="#9DB7AD" stroke-width="2.5" stroke-linecap="round"/>
+  </g>
+
+  <text x="82" y="135" fill="#F0EADF" font-family="Georgia, 'Times New Roman', serif" font-size="68" letter-spacing="2">Syaoran</text>
+  <text x="86" y="184" fill="#AFC3BB" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" letter-spacing="5">WRITING · BUILDING · LIVING</text>
+  <line x1="86" y1="219" x2="335" y2="219" stroke="#E7A96B" stroke-width="3"/>
+  <text x="86" y="263" fill="#D8E2DE" font-family="'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="23">练习写作，用写作改变自己</text>
+</svg>
