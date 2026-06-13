@@ -3,7 +3,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="./assets/header.svg">
-      <img src="./assets/header.svg" width="100%" alt="Syaoran - 山海之间，写字与造物">
+      <img src="./assets/header.svg" width="100%" alt="未选择的路 - 写字与造物">
     </picture>
   </a>
 </div>
@@ -22,9 +22,7 @@
 
 ## 一封短笺
 
-你好，我是 **Syaoran**。
-
-住在福建宁德，一座靠近山海的城市。
+你好，欢迎路过。
 
 我写代码，也写那些不适合写进代码里的事。<br>
 写读过的书、看过的电影、偶然落下的雨，<br>
@@ -94,5 +92,5 @@
 <div align="center">
   <em>愿我们都能走上人迹更少的路，<br>并在多年以后，仍认得当初出发的自己。</em>
   <br><br>
-  <sub>宁德 · 山海之间</sub>
+  <sub>写于某个寻常夜晚</sub>
 </div>
